@@ -47,6 +47,10 @@ Ansprechpartnerin: m.przysucha@hs-osnabrueck.de
 
 ## Anwendungsfälle
 
+Grundlegende Unterscheidung ISIK & ISIP: 
+* ISIK Pflege im Krankenhaus
+* ISIP außerklinische Pflege
+
 ### Pflegeplanung
 * Erfassung der Defizite und Risiken des Patienten
 * Erkennen von Problemen
@@ -56,7 +60,10 @@ Ansprechpartnerin: m.przysucha@hs-osnabrueck.de
 ### Pflegedokumentation
 * Erfassen der durchgeführten Pflegemaßnahmen
 * Erfassen der Abweichung zu geplanten Maßnahmen (Strukturmodell)
-* Beurteilung des Pflegeerfolgs
+* Wunddokumentation
+* Pflegeevaluation: Beurteilung des Pflegeerfolgs
 
 ### Pflegeüberleitung
-* Enthält zum einen allgemeine Daten, wie Name und Versicherung, zum anderen spezielle Angaben zu Vorerkrankungen, Medikationen, relevante Risiken des Patienten sowie Pflegeanweisungen. Durch den Pflegeüberleitungsbogen wird sichergestellt, dass die nachfolgende Pflegeeinrichtung möglichst schnell und genau über den Gesundheitszustand des Patienten informiert wird.
+* Enthält zum einen allgemeine Daten, wie Name und Versicherung, zum anderen spezielle Angaben zu Vorerkrankungen, Medikationen, relevante Risiken des Patienten sowie Pflegeanweisungen. Durch den Pflegeüberleitungsbogen wird sichergestellt, dass die nachfolgende Pflegeeinrichtung möglichst schnell und genau über den Gesundheitszustand und den Pflegebedarfs des Patienten informiert wird.
+
+
