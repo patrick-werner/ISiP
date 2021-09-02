@@ -10,8 +10,10 @@ Das Modul Pflege hat das Ziel pflegerischen Planung, Durchführung/Dokumentation
 
 
 ## Bezug KHZG
-Fördertatbestand: Überleitung in Reha und Pflegeeinrichtungen (§ 19 Abs. 1 Satz 1 Nr. 2: Pflegeüberleitung)
+Fördertatbestand: Überleitung in Reha und Pflegeeinrichtungen (§ 19 Abs. 1 Satz 1 Nr. 2: Pflegeüberleitung)  
 Fördertatbestand: Dokumentation der Pflege (§ 19 Abs. 1 Satz 1 Nr. 3.: Pflegedokumentation)
+> ...die Einrichtung einer durchgehenden, strukturierten elektronischen Dokumentation von Pflege- und Behandlungsleistungen sowie die Einrichtung von Systemen, die eine automatisierte
+und sprachbasierte Dokumentation von Pflegeund Behandlungsleistungen unterstützen,...
 
 ## Stakeholder
 * [NursIt Institut](https://nursit-institute.de/) (PDMS-Hersteller mit FHIR-Erfahrung)
