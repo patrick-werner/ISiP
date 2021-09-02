@@ -2,7 +2,7 @@
 
 ## Kurzbeschreibung
 Abbildung der pflegerischen Planung, Durchführung/Dokumentation und Überleitung in den Bereichen: Krankenhaus, stationäre Einrichtungen (u.a. Altersheime), ambulante Pflegeeinrichtungen und teilstationäre Einrichtungen (u.a. Tagespflege).  
-Hierbei gibt es zwei zu berücksichtigende Domänen: Pflege im Krankenhaus (ISIK Stufe2) und Pflege außerhalb des Krankenhauses (ISIP). Die Pflegeüberleitung mittel Pflegeüberleitungsbogen liegt in der Zuständigkeit der KBV und wird bei den Modellierungen für ISIK Stufe 2 und ISIP berücksichtig.
+Hierbei gibt es zwei zu berücksichtigende Domänen: Pflege im Krankenhaus (Modul in ISIK Stufe2) und Pflege außerhalb des Krankenhauses (ISIP). Die Pflegeüberleitung mittel Pflegeüberleitungsbogen liegt in der Zuständigkeit der KBV und wird bei den Modellierungen für ISIK Stufe 2 und ISIP berücksichtig.
 
 Die Domänen der Krankenhauspflege, sowie die der ambulante und stationäre Pflege unterscheiden sich durch die zugrundeliegenden Pflege(planungs) Prozesse. Während ein Großteil der Pflegeeinrichtungen außerhalb der Krankenhäuser mittlerweile auf das 4-phasige Strukturmodell setzen, wird im Krankenhaus das 6-phasige Modell nach Fiechter und Meier eingesetzt.
 
@@ -34,10 +34,9 @@ Ansprechpartnerin: m.przysucha@hs-osnabrueck.de
 * Encounter (Basis)
 ### neue Datenobjekte
 * CarePlan
-* CareTeam
+* CareTeam??
 * Goal
-* Medication*
-* ServiceRequest
+* ServiceRequest?
 * NutritionOrder
 * RiskAssessment
 * RequestGroup
